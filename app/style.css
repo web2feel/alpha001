@@ -2,12 +2,19 @@ body{
     font-color:#777;
 }
 
-h1{
+#header h1{
     text-align:center;
     color:#222;
+}
+#header p{
+    text-align: center;
 }
 
 .post{
     width: 700px;
     margin:50px auto;
+}
+
+#footer{
+    text-align: center;
 }
